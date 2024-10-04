@@ -100,6 +100,12 @@ That's it you're done!
 
 (Thanks to Tom Sparrow for providing the guide)
 
+### For batch processing... 
+simply run: 
+```shell
+./untrunc-batch.py
+```
+and follow prompts.
 
 ### Help/Support
 
